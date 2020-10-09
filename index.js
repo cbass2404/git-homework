@@ -1,3 +1,3 @@
 console.log("Hi");
-
-const name = 'Cory Bass';
+const name = "Cory Bass";
+console.log('it works');
